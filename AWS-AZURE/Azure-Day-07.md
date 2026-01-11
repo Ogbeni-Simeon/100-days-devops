@@ -5,11 +5,6 @@ The objective of Day 7 was to allocate a Public IP address in Azure. This task f
 
 ---
 
-## Scenario Overview
-As part of the Nautilus DevOps team’s phased migration to Azure, networking components are being created incrementally. Public IP addresses are provisioned separately to allow better control and reuse when attaching them to compute or networking resources.
-
----
-
 ## Azure Services / Concepts Covered
 - Azure Public IP addresses
 - Static vs dynamic IP assignment
