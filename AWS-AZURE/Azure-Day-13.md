@@ -8,7 +8,7 @@ The objective of Day 13 was to enable secure, password-less SSH access to an Azu
 ## Azure Services / Concepts Covered
 - Azure Virtual Machines (Linux)
 - SSH key-based authentication
-- Azure cloud-init configuration
+- Azure cloud-init configurations
 - Linux SSH daemon (`sshd`)
 - Root user access control
 - SSH host key verification
