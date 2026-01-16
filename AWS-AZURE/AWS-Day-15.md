@@ -10,7 +10,7 @@ The objective of Day 15 was to create a snapshot of an existing Amazon EBS volum
 - EBS Volumes
 - EBS Snapshots
 - AWS resource tagging
-- Snapshot lifecycle and status
+- Snapshot lifecycle and status 
 
 ---
 
